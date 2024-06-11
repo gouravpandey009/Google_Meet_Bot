@@ -6,7 +6,6 @@ Are you tired of constantly juggling between your online classes, desperately tr
 
 Introducing our revolutionary **Automated Class Attender Bot** - your virtual assistant designed to take the stress out of online learning and bring back the joy of attending classes from the comfort of your own home.
 
-![Bot in Action](insert_image_link_here)
 
 ## 🌟 Why Choose Our Bot?
 
